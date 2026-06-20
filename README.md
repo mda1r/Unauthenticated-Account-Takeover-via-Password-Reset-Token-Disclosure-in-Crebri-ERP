@@ -147,5 +147,4 @@ echo "[+] Account $USER taken over. Password: $NEWPASS"
 
 ## Discovered By
 
-Security Researcher via authorized Bug Bounty Program
-Platform: bugbounty.sa | Program: Sendan (ID: 1228)
+Abdullah Alannaz
